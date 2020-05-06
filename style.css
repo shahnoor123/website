@@ -1,0 +1,244 @@
+.header{
+    background-color:#316dc3;
+}
+
+
+.icons i{
+padding-top: 5px;
+float: left;
+font-size: 18px;
+padding-right: 15px;
+color: white;
+}
+
+.icons p{
+    margin-left: 120px;
+    color: white;
+    padding-top:  20px; ;
+    text-align: center;
+    
+}
+    
+
+
+
+.icons button{
+    
+    margin-right: 5px;
+    float: right;
+    
+    color: teal;
+    font-size: 13px;
+    padding-top: 3px;
+}
+
+
+.next img{
+    width: 220px;
+    float: left;
+
+}
+
+.lists ul li {
+    display: inline;
+   list-style: none;
+    margin-left: 40px;
+    
+}
+.lists ul li a{
+    color: black;
+    text-decoration: none;}
+   
+.lists ul{
+    margin-top: 25px;
+    float: right;   
+}
+.lists li{
+    border-radius: 5em;
+    padding: 5px;
+}
+
+
+li:hover{
+    background-color: dodgerblue;
+}
+
+
+
+
+
+.news p{
+    background-color: dodgerblue;
+}
+.news1{
+    color:white;
+}
+
+
+.head {
+    text-align: center;
+    
+}
+ .head h1{
+    color:dodgerblue;
+}
+.head span{
+    color: green;
+}
+
+.text p{
+    margin-top: 40px;
+}
+
+.band{
+    background-color:dodgerblue;
+    margin-top: 90px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.band span{
+    color:greenyellow;
+    
+}
+
+.band h1{
+    color: white;
+    font-size: 60px;
+}
+
+.band h5{
+    font-size: 16px;
+    color: white;
+}
+
+.service {
+    text-align: center ;
+   
+
+}
+.service h1{
+    color: dodgerblue;
+    margin-top: 80px;
+
+}
+.service span{
+    color: green;
+}
+
+
+
+    
+.serviespart {
+    text-align: center;
+     margin-top: 50px;
+    box-shadow: 2px 2px 2px 2px;
+    border: 10px ,solid ,white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.km h2{
+    margin-top: 70px;
+    color: dodgerblue;
+}
+
+.pr-pic{
+    border: 1px solid ,white;
+    color: dodgerblue;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: 1px 1px 1px;
+
+}
+.pr-pic img{
+    float: left;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+
+.text h3{
+    color: dodgerblue;
+}
+
+.text{
+    border: 1px, solid,white;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+.immmi{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.immmi img{
+    margin-bottom: 80px;
+}
+
+
+.immmi h1{
+    color: dodgerblue;
+}
+.immmi span{
+    color: green;
+}
+
+
+.awargi{
+    background-color:rgb(20, 20, 20);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.awargi span{
+    color: green;
+    marg
+    margin-top: 30px;
+}
+
+.footer{
+    color: #858181;
+}
+
+
+.foodert{
+    color: white;
+}
+
+
+.fooderticon i a h4{
+    margin-top: 30px;
+}
+
+
+.fooderticon h4{
+    color: white;
+    padding-top: 10px;
+}
+
+.fooderticon i a {
+    background-color: #316dc3;
+    border-radius: 15px;
+    padding: 6px;
+    font-size: 18px;
+    padding: 5px;
+    margin-left: 6px;
+    
+}
+
+
+
+
+.last{
+    background-color: dodgerblue;
+    color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
